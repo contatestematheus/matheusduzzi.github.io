@@ -2,7 +2,7 @@
 layout: post
 title: Gerador de memes
 subtitle: Acompanhando ascensão de uma nova onda no Instagram e de bandeja criando do zero meu próprio editor de fotos, em um passo de “magick”.
-tags: [Magick]
+tags: [Visualização de dados,R,Imagem]
 cover-img: /img/meme-cover.jpg
 thumbnail-img: /img/meme-icon.jpg
 share-img: /img/memes.jpeg
