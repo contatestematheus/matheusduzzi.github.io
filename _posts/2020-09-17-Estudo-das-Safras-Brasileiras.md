@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agronegócio
+title: Estudo das Safras Brasileiras
 subtitle: Conjunto de posts contando um pouco de conceitos do campo e princípios da economia do setor.
 tags: [Agronegócio]
 cover-img: /img/agronegocio-icon.jpg
