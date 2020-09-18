@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B3
+title: Como construir meu próprio Dashboard da Bolsa de Valores
 subtitle: Construindo meu próprio dashboard da bolsa de valores. No final desse passo a passo você conseguirá ver de forma simples os dados em tempo real e históricos da B3.
 tags: [dashboard]
 cover-img: /img/b3-cover.png
