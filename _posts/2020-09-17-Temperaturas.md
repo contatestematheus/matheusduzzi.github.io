@@ -3,7 +3,7 @@ layout: post
 title: Temperaturas
 subtitle: Convertendo Celsius para Fahrenheit
 tags: [Deep Learning]
-cover-img: /img/celsius.jpg
+cover-img: /img/temperatura-cover.jpg
 thumbnail-img: /img/temperatura-icon.png
 share-img: /img/celsius.jpg
 ---
