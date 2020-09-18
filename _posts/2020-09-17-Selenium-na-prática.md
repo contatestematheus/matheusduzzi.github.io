@@ -2,7 +2,7 @@
 layout: post
 title: Selenium na prática
 subtitle: Simulando um usuário no Linkedin
-tags: [Selenium]
+tags: [Python,Automação]
 cover-img: /img/Linkedin-post.png
 thumbnail-img: /img/linkedin-icon.png
 share-img: /img/Linkedin-post.png
