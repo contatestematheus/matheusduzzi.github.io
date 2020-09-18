@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API-Spotify
+title: API Spotify
 subtitle: Passo a passo de como utilizar e possíveis análises de playlists
 cover-img: /img/spotify-cover.jpg
 thumbnail-img: /img/spotify-icon-2.png
