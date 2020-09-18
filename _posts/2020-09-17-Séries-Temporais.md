@@ -2,7 +2,7 @@
 layout: post
 title: Séries Temporais
 subtitle: Tópicos que você deve saber para você começar fazer sua análise desse tipo de dados.
-tags: [Time series]
+tags: [Séries Temporais, R, Python]
 cover-img: /img/series.jpeg
 thumbnail-img: /img/times-icon.jpg
 share-img: /img/series.jpeg
