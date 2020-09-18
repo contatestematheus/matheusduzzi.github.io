@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Temperaturas
-subtitle: Convertendo Celsius para Fahrenheit
+subtitle: Criando uma rede neural simples para transformação de unidades de medida de temperatura.
 tags: [Deep Learning]
 cover-img: /img/temperatura-cover.jpg
 thumbnail-img: /img/temperatura-icon.png
