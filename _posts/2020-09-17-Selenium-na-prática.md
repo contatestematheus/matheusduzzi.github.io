@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selenium
+title: Selenium na prática
 subtitle: Simulando um usuário no Linkedin
 tags: [Selenium]
 cover-img: /img/Linkedin-post.png
