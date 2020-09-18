@@ -8,12 +8,10 @@ thumbnail-img: /img/linkedin-icon.png
 share-img: /img/Linkedin-post.png
 ---
 
-Texto grande de teste
+PRÓXIMO ARTIGO, FIQUE ATENTO NAS REDES SOCIAIS!
 
 <img src="/img/Linkedin-post.png" alt="Selenium" align="center"/>
 
-*Black ink and markers on Fabriano a A4 rough paper.*
 
-Sentimentr
 
 
