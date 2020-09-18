@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uma breve história do campo
+title: Agronegócio
 subtitle: Conjunto de posts contando um pouco de conceitos do campo
 tags: [Agribusiness]
 ---
