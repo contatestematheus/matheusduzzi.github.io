@@ -8,6 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [spotify, python]
 ---
 
-Texto spotify
+Texto spotify.
 
 
