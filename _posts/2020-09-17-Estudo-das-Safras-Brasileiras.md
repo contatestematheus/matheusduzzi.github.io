@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Safras
+title: Estudo das Safras Brasileiras
 subtitle: Uma abordagem sobre aspectos do uso de dados públicos sobre safras, passando por etapas como limpeza, formatação e deploy.
-tags: [Agribusiness]
+tags: [Agronegócio]
 cover-img: /img/safras-cover.jpg
 thumbnail-img: /img/safras-cover2.jpg
 share-img: /img/safras.png
