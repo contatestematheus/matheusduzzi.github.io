@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Séries
-subtitle: Análise de Séries temporais
+title: Séries Temporais
+subtitle: Tópicos que você deve saber para você começar fazer sua análise desse tipo de dados.
 tags: [Time series]
 cover-img: /img/series.jpeg
 thumbnail-img: /img/times-icon.jpg
