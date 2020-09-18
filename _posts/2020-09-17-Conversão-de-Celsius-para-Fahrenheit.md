@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ensinando uma máquina: conversão de Celsius para Fahrenheit
+title: Conversão de Celsius para Fahrenheit
 subtitle: Criando uma rede neural simples para transformação de unidades de medida de temperatura.
 tags: [Deep Learning]
 cover-img: /img/temperatura-cover.jpg
