@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter
+title: Twitter x Bolsa de valores
 subtitle: Um tutorial do zero ao avançado, visando te mostrar como extrair informações relevantes de uma das redes sociais que mais cresce na atualidade.
 tags: [Twitter]
 cover-img: /img/twitter-icon-black.png
