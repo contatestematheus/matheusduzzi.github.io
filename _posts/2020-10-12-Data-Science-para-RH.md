@@ -2,7 +2,7 @@
 layout: post
 title: Data Science para RH
 subtitle: Tecnologia e inovação em um dos setores mais tradicionais do mundo corporativo
-tags: [RH,Python,Machine Learning]
+tags: [RH,Python,Aprendizado de máquina]
 cover-img: /img/rh_cover_new.png
 thumbnail-img: /img/rh_icon.png
 share-img: /img/rh_tumb.jpg
