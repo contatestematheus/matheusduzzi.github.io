@@ -8,7 +8,8 @@ thumbnail-img: /img/rh_icon.png
 share-img: /img/rh_tumb.jpg
 ---
 
-Recrutamento, resolução de conflitos internos, manutenção de um bom ambiente de trabalho, regulamentação de documentos. 
+Dados de recrutamento, resolução de conflitos internos, manutenção de um bom ambiente de trabalho, regulamentação de documentos. 
+
 Essas são apenas algumas das subdivisões de quem trabalha no departamento de Recursos Humanos e para acompanhar a evolução tecnológica de outras áreas,
 qual deve ser a postura e as ações que o RH deve tomar?
 
