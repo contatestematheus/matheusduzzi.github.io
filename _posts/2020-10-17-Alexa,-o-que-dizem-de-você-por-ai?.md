@@ -2,7 +2,7 @@
 layout: post
 title: Alexa, o que dizem de você por ai?
 subtitle: Uma análise de textos usando Deep Learning para os reviews da Amazon Alexa
-cover-img: /img/alexa_cover.jpg
+cover-img: /img/alexa_cover_new.jpg
 thumbnail-img: /img/alexa_tumb.png
 share-img: /img/alexa_share.png
 tags: [Aprendizado de máquina, Deep Learning, Python, NPL]
@@ -15,5 +15,6 @@ capaz de realizar análise de sentimentos nos reviews da caixa de som Echo Amazo
 
 [Clique aqui](https://matheusduzzi.medium.com/alexa-o-que-dizem-de-voc%C3%AA-por-ai-486e5ca604e3) e acesse o texto completo no Medium.
 
-<img src="/img/alexa_share.png" alt="alexa" align="center"/>
+
+<img src="/img/alexa_share.png" alt="alexa" align="center">
 
